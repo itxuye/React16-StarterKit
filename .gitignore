@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+/dist/
+/node_modules/
+/node_modules
+/.idea/
+/.idea
+/.idea/vcs.xml
+/.idea/cloudpenseh5.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/jsLibraryMappings.xml
+/.idea/inspectionProfiles/
+/.idea/workspace.xml
+/.idea/encodings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+.idea/vcs.xml
+/index.html
+/yarn-error.log
+
