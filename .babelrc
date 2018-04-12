@@ -1,0 +1,18 @@
+{
+  "presets": [
+    "react",
+    ["env", {
+      "targets": {
+        "browsers": ["Android >= 4.0", "ios >= 6"]
+      },
+      "debug": false,
+      "include": [
+        "transform-es2015-shorthand-properties"
+      ],
+      "useBuiltIns": true
+    }]
+  ],
+  "plugins": [
+    "transform-decorators-legacy"
+  ]
+}
