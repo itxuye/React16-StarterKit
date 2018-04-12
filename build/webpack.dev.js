@@ -52,7 +52,7 @@ module.exports = merge(common, {
             }
           },
           {
-            loader: 'less-loader',
+            loader: 'scss-loader',
             options: {
               sourceMap: true
             }
